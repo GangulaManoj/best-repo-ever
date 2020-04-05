@@ -1,6 +1,7 @@
 # best-repo-ever
 This Repository created as a step of trailhead
-<<<<<<<
 
+Chnages from Branch 1 
 
-<<<<<<< These all are my changes
+Line 1
+Line 2
